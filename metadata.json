@@ -1,0 +1,6 @@
+{
+  "name": "날씨 & 옷차림 코디네이터 (Weather & Outfit)",
+  "description": "OpenWeatherMap 실시간 날씨 정보를 기반으로 남성과 여성을 위한 기온별 맞춤 데일리 룩과 스타일링 팁을 추천합니다.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
